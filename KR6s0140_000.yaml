@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0140/a/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大中祥符法寶錄
+  edition:
+    short: a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/A/A111/A111n1493.xml
+    old_id: A111n1493
+hash: sha256:2875efb763e4e2eb39cd92ce8176ea8a27d3924efbcadf8543f53866b25a6cc8

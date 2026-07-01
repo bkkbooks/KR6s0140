@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6s0140/a/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 趙安仁楊億等奉勑編修別明聖代翻宣録中之四藏乘區別年代指明二之三三年七月譯成經律論十卷外道問聖大乘法無我義經一部一卷大乘經藏收佛於衆中因外道原經卷殘缺
+  hash: sha256:952b3acc69eb481f785d542a5b6afb0ceb3bbd1a1850244799dd361c8e189fe0
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 大中祥符法寶錄卷第五　　　　跡, id: KR6s0140_A_005-juan-start, juan_n: '005', jhead: 大中祥符法寶錄卷第五　　　　跡}
+metadata:
+  title: 大中祥符法寶錄
+  edition:
+    short: a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/A/A111/A111n1493.xml
+    old_id: A111n1493
+hash: sha256:7eb274f785e1eb7de342d54a47f918a18ae96cc4447236341bdca078e856cf49
