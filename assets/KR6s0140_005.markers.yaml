@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 10, content: '', id: KR6s0140_A_005-0723b05, ed: A, 'n': 0723b05}
   - {type: 其他, offset: 10, content: 別明　聖代翻宣錄中之四, id: KR6s0140_A_005-mulu-1, level: '1'}
   - {type: indent, offset: 12, content: 　, id: KR6s0140_A_005-bkkind1}
+  - {type: substitution, offset: 16, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: line-break, offset: 20, content: '', id: KR6s0140_A_005-0723b06, ed: A, 'n': 0723b06}
   - {type: 其他, offset: 20, content: 藏乘區別年代指明二之三, id: KR6s0140_A_005-mulu-2, level: '2'}
   - {type: line-break, offset: 31, content: '', id: KR6s0140_A_005-0723b07, ed: A, 'n': 0723b07}
@@ -26,6 +27,7 @@ markers:
   - {type: xml-element, offset: 57, content: '', id: pA111p0723b1001, name: p, role: open, attrs: {'xml:id': pA111p0723b1001, style: 'margin-left:3em;'}}
   - {type: punctuation, offset: 62, content: 。, id: KR6s0140_A_005-bkkpn3}
   - {type: line-break, offset: 64, content: '', id: KR6s0140_A_005-0723b11, ed: A, 'n': 0723b11}
+  - {type: substitution, offset: 64, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 66, content: ，, id: KR6s0140_A_005-bkkpn4}
   - {type: line-break, offset: 69, content: '', id: KR6s0140_A_005-0723b12, ed: A, 'n': 0723b12}
   - {type: punctuation, offset: 69, content: …, id: KR6s0140_A_005-bkkpn5}
@@ -39,4 +41,4 @@ markers:
   - {type: page-break, offset: 74, content: '', id: KR6s0140_A_005-0725b, ed: A, 'n': 0725b, source_xml_id: A111.1493.0725b}
   - {type: line-break, offset: 74, content: '', id: KR6s0140_A_005-0725b01, ed: A, 'n': 0725b01}
   back: []
-hash: sha256:8a6828d600c535d78e4eb5750436d22d0c6777dbb700c54694afb9c7cb07d9d0
+hash: sha256:1f3d751ad788e5b9a2146a8453e3fc96d85dc371ceacd2f570dd536edc304254

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 趙安仁楊億等奉勑編修別明聖代翻宣錄中之四藏乘區別年代指明二之三三年七月譯成經律論十卷外道問聖大乘法無我義經一部一卷大乘經藏收佛於眾中因外道原經卷殘缺
-  hash: sha256:4f0b60354f1eb41e83f85050ea3d2e49a65704e0e14e7edcac02d2f49e2a3461
+  text: 趙安仁楊億等奉勑編修別明聖代翻宣録中之四藏乘區別年代指明二之三三年七月譯成經律論十卷外道問聖大乘法無我義經一部一卷大乘經藏收佛於衆中因外道原經卷殘缺
+  hash: sha256:952b3acc69eb481f785d542a5b6afb0ceb3bbd1a1850244799dd361c8e189fe0
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: 大中祥符法寶錄卷第五　　　　跡, id: KR6s0140_A_005-juan-start, juan_n: '005', jhead: 大中祥符法寶錄卷第五　　　　跡}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/A/A111/A111n1493.xml
     old_id: A111n1493
-hash: sha256:fce6e4568eed70cdfd1d05fd8e9192c5cfdfbc3d4c9115b327402c9fecd81101
+hash: sha256:7eb274f785e1eb7de342d54a47f918a18ae96cc4447236341bdca078e856cf49
